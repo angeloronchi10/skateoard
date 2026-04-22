@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Chi siamo</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/chi-siamo">Chi siamo</a></li>
+<li><a href="/cosa-facciamo">Cosa facciamo</a></li>
+<li><a href="/modulo">Contatti</a></li>
+</ul>
+
+<h1>Chi siamo</h1>
+
+<p>
+Siamo un gruppo di ragazzi appassionati di skate.
+Aiutiamo chi vuole imparare e forniamo attrezzatura.
+</p>
+
+</body>
+</html>
